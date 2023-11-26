@@ -7,9 +7,7 @@
 4. See owned NFTs
    ![image](https://github.com/TanujJha/OpenD-NFT-Marketplace/assets/97455430/c1b399df-2985-4277-a195-e0e40f576964)
 
-Copyright 2023 London App Brewery LTD (www.appbrewery.com)
-
-The code in this tutorial project is licended under the Apache License, Version 2.0 (the "License");
+The code in this project is licended under the Apache License, Version 2.0 (the "License");
 you may not use this project except in compliance with the License.
 You may obtain a copy of the License at
 
